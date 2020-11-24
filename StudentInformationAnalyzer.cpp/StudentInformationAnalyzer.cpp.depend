@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1528994814 source:c:\users\user\desktop\studentinformationanalyzer\studentinformationanalyzer.cpp\main.cpp
+	<iostream>
+	"Student.h"
+
+1528985305 c:\users\user\desktop\studentinformationanalyzer\studentinformationanalyzer.cpp\include\student.h
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
+1528985273 source:c:\users\user\desktop\studentinformationanalyzer\studentinformationanalyzer.cpp\src\student.cpp
+	"Student.h"
+
+1528994621 source:c:\users\user\desktop\studentinformationanalyzer\studentinformationanalyzer.cpp\src\studentlist.cpp
+	"Studentlist.h"
+
+1528994621 c:\users\user\desktop\studentinformationanalyzer\studentinformationanalyzer.cpp\include\studentlist.h
+
+1528985273 source:f:\studentinformationanalyzer\studentinformationanalyzer.cpp\src\student.cpp
+	"Student.h"
+
+1528985305 f:\studentinformationanalyzer\studentinformationanalyzer.cpp\include\student.h
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
+1528994621 source:f:\studentinformationanalyzer\studentinformationanalyzer.cpp\src\studentlist.cpp
+	"Studentlist.h"
+
+1528994621 f:\studentinformationanalyzer\studentinformationanalyzer.cpp\include\studentlist.h
+
